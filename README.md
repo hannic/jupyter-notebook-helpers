@@ -3,7 +3,7 @@
         ''' #!/usr/bin/env python3  '''
 
 ## Google Colab Jupyter Notebooks
-<a href= "My_Colab_Jupyter_Notebook_Helpers.ipynb">My_Colab_Jupyter_Notebook_Helpers.ipynb</a>
+- <a href= "My_Colab_Jupyter_Notebook_Helpers.ipynb">My_Colab_Jupyter_Notebook_Helpers.ipynb</a>
 
 ## BeautifulSoup 
 - Scrape the web
@@ -12,8 +12,7 @@
 TBD
 
 ## Sqlite3 
-- Light database 
-<a href= "My_sqlite3.ipynb">My_sqlite3.ipynb</a>
+- Light database with <a href= "My_sqlite3.ipynb">My_sqlite3.ipynb</a>
 
 My_sqlite3.ipynb
 ## Images 
