@@ -21,6 +21,14 @@ My_sqlite3.ipynb
 ## Filesystem
 - Working with folder, files
 
+
+## No module found in Jupyter Notebook, but module is installed by pip
+
+        # To install packages to a particular Python installation or environment using pip, you can run it like this:
+
+        !/Users/username/miniconda3/bin/python -m pip install mutagen
+        # Replace path/to/python with the path of the Python executable (sys.executable)
+
 ---
 <img src="https://avatars1.githubusercontent.com/u/1014817?s=460&v=4 =100x20" alt="drawing" width="100"/>
 
