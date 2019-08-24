@@ -33,4 +33,9 @@ My_sqlite3.ipynb
 <img src="https://avatars1.githubusercontent.com/u/1014817?s=460&v=4 =100x20" alt="drawing" width="100"/>
 
 
+## Imports
+        # to print all values of array
+        import sys
+        import numpy
+        numpy.set_printoptions(threshold=sys.maxsize)
 
